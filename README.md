@@ -9,7 +9,7 @@
   <img align="left" alt="Carina´s Instagram" width="22px" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" />
 </a>
 <a href="https://paypal.me/byPixels?country.x=DE&locale.x=de_DE">
-  <img align="left" alt="Carina´s PayPal" width="22px" src="https://unpkg.com/simple-icons@v6/icons/PayPal.svg" />
+  <img align="left" alt="Carina´s PayPal" width="22px" src="https://github.com/datatrans/payment-logos/blob/master/assets/logos/paypal.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pixelsde.pixelsde)
