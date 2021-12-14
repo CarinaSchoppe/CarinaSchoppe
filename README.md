@@ -11,7 +11,6 @@
 <a href="https://paypal.me/byPixels?country.x=DE&locale.x=de_DE">
   <img align="left" alt="Carina´s PayPal" width="22px" src="https://github.com/datatrans/payment-logos/blob/master/assets/logos/paypal.svg" />
 </a>
-[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jessicalim813@gmail.com)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pixelsde.pixelsde)
 <br />
