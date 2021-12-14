@@ -31,6 +31,13 @@ i am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
+```text
+Java     14 hrs 51 mins  █████████████████▒░░░░░░░   69.38 % 
+Python   4 hrs 43 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.08 % 
+XML      44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+Groovy   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Text     16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+```
 <!--END_SECTION:waka-->
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
