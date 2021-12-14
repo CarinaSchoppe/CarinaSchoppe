@@ -6,7 +6,7 @@
   <img align="left" alt="Carina's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 <a href="https://www.instagram.com/schoppecarina/">
-  <img align="left" alt="Carina´s Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Carina´s Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pixelsde.pixelsde)
