@@ -11,6 +11,11 @@
 <a href="https://paypal.me/byPixels?country.x=DE&locale.x=de_DE">
   <img align="left" alt="Carina´s PayPal" width="22px" src="https://github.com/datatrans/payment-logos/blob/master/assets/logos/paypal.svg" />
 </a>
+</a>
+<a href="https://paypal.me/byPixels?country.x=DE&locale.x=de_DE">
+  <img align="left" alt="Carina´s PayPal" width="22px" src="https://img.shields.io/badge/-@carinaschoppe-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/carinaschoppe" />
+</a>
+https://img.shields.io/badge/-@carinaschoppe-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/carinaschoppe
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pixelsde.pixelsde)
 <br />
