@@ -1,22 +1,10 @@
 ### Hi I´m Carina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/carinaschoppe">
-  <img align="left" alt="Carina Schoppe | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.facebook.com/CarinaSchoppeDE/">
-  <img align="left" alt="Carina's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
-<a href="https://www.instagram.com/schoppecarina/">
-  <img align="left" alt="Carina´s Instagram" width="22px" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" />
-</a>
-<a href="https://paypal.me/byPixels?country.x=DE&locale.x=de_DE">
-  <img align="left" alt="Carina´s PayPal" width="22px" src="https://github.com/datatrans/payment-logos/blob/master/assets/logos/paypal.svg" />
-</a>
-
+[![Facebook Badge](https://img.shields.io/badge/-CarinaSchoppe-005eff?style=flat&labelColor=005eff&logo=Facebook&logoColor=darkblue&link=https://www.facebook.com/CarinaSchoppeDE/)](https://www.facebook.com/CarinaSchoppeDE/)
+[![Gmail Badge](https://img.shields.io/badge/-CarinaSchoppe-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:carina.schoppe2912@gmail.com)](mailto:carina.schoppe2912@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@SchoppeCarina-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/schoppecarina/)](https://instagram.com/schoppecarina)
+[![Twitter Badge](https://img.shields.io/badge/-@CarinaSchoppe-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/carinaschoppe)](https://twitter.com/carinaschoppe)
 ![](https://visitor-badge.glitch.me/badge?page_id=pixelsde.pixelsde)
 <br />
-[![Gmail Badge](https://img.shields.io/badge/-carinaschoppe-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:carina.schoppe2912@gmail.com)](mailto:carina.schoppe2912@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@schoppecarina-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/schoppecarina/)](https://instagram.com/schoppecarina)
-[![Twitter Badge](https://img.shields.io/badge/-@carinaschoppe-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/carinaschoppe)](https://twitter.com/carinaschoppe)
 hi, i'm [Carina Schoppe](https://github.com/PixelsDE/), a passionate self-taught full stack developer and a freelance software engineer from germany. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
