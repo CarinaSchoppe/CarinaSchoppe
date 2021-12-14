@@ -1,4 +1,4 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi I´m Carina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://twitter.com/carinaschoppe">
   <img align="left" alt="Carina Schoppe | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -11,6 +11,7 @@
 <a href="https://paypal.me/byPixels?country.x=DE&locale.x=de_DE">
   <img align="left" alt="Carina´s PayPal" width="22px" src="https://github.com/datatrans/payment-logos/blob/master/assets/logos/paypal.svg" />
 </a>
+[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jessicalim813@gmail.com)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pixelsde.pixelsde)
 <br />
