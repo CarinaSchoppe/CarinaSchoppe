@@ -3,6 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-CarinaSchoppe-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:carina.schoppe2912@gmail.com)](mailto:carina.schoppe2912@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@SchoppeCarina-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/schoppecarina/)](https://instagram.com/schoppecarina)
 [![Twitter Badge](https://img.shields.io/badge/-@CarinaSchoppe-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/carinaschoppe)](https://twitter.com/carinaschoppe)
+[![Snapchat Badge](https://img.shields.io/badge/-@CarinaSchoppe-f0ff00?style=flat&labelColor=f0ff00&logo=Snapchat&logoColor=black&)]()
 ![](https://visitor-badge.glitch.me/badge?page_id=pixelsde.pixelsde)
 <br />
 hi, i'm [Carina Schoppe](https://github.com/PixelsDE/), a passionate self-taught full stack developer and a freelance software engineer from germany. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
