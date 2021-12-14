@@ -51,7 +51,7 @@ Text     16 mins         ▒░░░░░░░░░░░░░░░░░�
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.paypal.com/donate/?hosted_button_id=KGNSYFPSZ69UW" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://paypal.me/byPixels?country.x=DE&locale.x=de_DE" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
