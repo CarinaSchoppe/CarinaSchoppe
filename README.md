@@ -33,7 +33,7 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-Java                50 mins         ████████████████████████▓   99.31 % 
+Java                49 mins         █████████████████████████   99.88 % 
 ```
 <!--END_SECTION:waka-->
 
