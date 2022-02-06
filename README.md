@@ -1,5 +1,5 @@
 ### Hi I´m Carina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Facebook Badge](https://img.shields.io/badge/-CarinaSchoppe-005eff?style=flat&labelColor=005eff&logo=Facebook&logoColor=darkblue&link=https://www.facebook.com/CarinaSchoppeDE/)](https://www.facebook.com/CarinaSchoppeDE/)
+[![Facebook Badge](https://img.shields.io/badge/-CarinaSchoppe-005eff?style=flat&labelColor=005eff&logo=Facebook&logoColor=darkblue&link=https://www.facebook.com/CarinaSophieSchoppe/)](https://www.facebook.com/CarinaSchoppeDE/)
 [![Gmail Badge](https://img.shields.io/badge/-CarinaSchoppe-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:carina.schoppe2912@gmail.com)](mailto:carina.schoppe2912@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@SchoppeCarina-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/schoppecarina/)](https://instagram.com/schoppecarina)
 [![Twitter Badge](https://img.shields.io/badge/-@CarinaSchoppe-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/carinaschoppe)](https://twitter.com/carinaschoppe)
