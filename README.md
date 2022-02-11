@@ -39,7 +39,7 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 if you like what I do, maybe consider buying me a tea 🥺👉👈
 
-<a href="https://paypal.me/byPixels?country.x=DE&locale.x=de_DE" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://paypal.me/CarinaSophieSchoppe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 🚧 **my todolist stats:**
 <!-- TODO-IST:START -->
