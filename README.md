@@ -33,8 +33,6 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-Total: 3 hrs 12 mins
-
 Kotlin           2 hrs           ███████████████▓░░░░░░░░░   62.59 % 
 Java             42 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.27 % 
 Python           16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
