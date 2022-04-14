@@ -34,12 +34,12 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin           9 hrs 14 mins   ███████████░░░░░░░░░░░░░░   43.93 %
-C#               5 hrs 7 mins    ██████░░░░░░░░░░░░░░░░░░░   24.33 %
-Python           2 hrs 21 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
-Java             1 hr 51 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
-CSV              30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-GitIgnore file   27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+Kotlin           10 hrs 16 mins  ██████████▓░░░░░░░░░░░░░░   43.00 %
+C#               5 hrs 15 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.98 %
+Java             3 hrs 48 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
+Python           2 hrs 46 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
+CSV              27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Properties       18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 ```
 
 <!--END_SECTION:waka-->
