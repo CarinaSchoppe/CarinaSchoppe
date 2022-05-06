@@ -34,11 +34,11 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-Java             1 hr 42 mins    ████████████████████▓░░░░   82.75 %
-Python           18 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.61 %
-prototext        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Properties       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Java             1 hr 42 mins    █████████████████████▒░░░   85.89 %
+Python           13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
+prototext        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Properties       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 C#               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
