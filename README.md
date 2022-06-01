@@ -34,12 +34,12 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin           5 hrs 23 mins   ███████████████▓░░░░░░░░░   62.96 %
-Groovy           1 hr 13 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.33 %
-Java             1 hr 1 min      ███░░░░░░░░░░░░░░░░░░░░░░   12.04 %
-CLASS            12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
-TOML             10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-Properties       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Kotlin           6 hrs 1 min     ████████████████▒░░░░░░░░   65.54 %
+Groovy           1 hr 13 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 %
+Java             1 hr 1 min      ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
+CLASS            12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+TOML             10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Properties       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 ```
 
 <!--END_SECTION:waka-->
