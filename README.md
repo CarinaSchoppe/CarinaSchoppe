@@ -34,9 +34,12 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-Text         6 mins          ████████████████▓░░░░░░░░   66.53 %
-Kotlin       3 mins          ████████░░░░░░░░░░░░░░░░░   32.27 %
-Properties   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+Python       3 mins          ████████████▒░░░░░░░░░░░░   49.17 %
+Java         3 mins          ███████████▒░░░░░░░░░░░░░   45.54 %
+Groovy       0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Gradle       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Kotlin       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
