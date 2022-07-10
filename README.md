@@ -34,12 +34,12 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-Python       3 mins          ████████▒░░░░░░░░░░░░░░░░   33.27 %
-Java         3 mins          ███████░░░░░░░░░░░░░░░░░░   28.03 %
-SQL          1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
-C#           1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.52 %
-Gradle       1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
-Groovy       0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+Kotlin       10 mins         ███████████▓░░░░░░░░░░░░░   47.04 %
+Python       3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.62 %
+Java         3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 %
+SQL          1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+C#           1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+Gradle       1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
 ```
 
 <!--END_SECTION:waka-->
