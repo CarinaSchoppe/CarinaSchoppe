@@ -34,12 +34,12 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-C#                5 hrs 31 mins   █████████░░░░░░░░░░░░░░░░   36.03 %
-Kotlin            2 hrs 48 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.27 %
-XML               1 hr 48 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
-Python            1 hr 14 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
-Groovy            1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
-Java              1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
+C#                7 hrs 26 mins   ████████▓░░░░░░░░░░░░░░░░   35.00 %
+Java              4 hrs 4 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.21 %
+Kotlin            3 hrs 23 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.93 %
+XML               2 hrs 36 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
+Groovy            1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
+HTML              36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
 ```
 
 <!--END_SECTION:waka-->
