@@ -59,7 +59,7 @@ if you like what I do, maybe consider buying me a tea 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CarinaSchoppe&show_icons=true&theme=gotham" alt="PixelsDE" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CarinaSchoppe&show_icons=true&theme=gotham" alt="CarinaSchoppe" />
 
 
 
