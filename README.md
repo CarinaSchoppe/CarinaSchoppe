@@ -34,12 +34,12 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin       5 hrs 37 mins   ██████████████████▒░░░░░░   73.05 %
-C#           54 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
-Gradle       17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-Python       14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-YAML         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-UnityYaml    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Python           2 hrs 33 mins   ██████████░░░░░░░░░░░░░░░   39.92 %
+Java             1 hr 16 mins    █████░░░░░░░░░░░░░░░░░░░░   19.82 %
+Kotlin           1 hr 4 mins     ████▒░░░░░░░░░░░░░░░░░░░░   16.73 %
+C#               39 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
+Gradle           17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+UnityYaml        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
 ```
 
 <!--END_SECTION:waka-->
