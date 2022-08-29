@@ -3,7 +3,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-CarinaSchoppe-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:carina.schoppe2912@gmail.com)](mailto:carina.schoppe2912@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@SchoppeCarina-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/schoppecarina/)](https://instagram.com/schoppecarina)
 [![Twitter Badge](https://img.shields.io/badge/-@CarinaSchoppe-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/carinaschoppe)](https://twitter.com/carinaschoppe)
-[![Whatsapp Badge](https://img.shields.io/badge/-@0175_5738757-008000?style=flat&labelColor=008000&logo=Whatsapp&logoColor=white&)]()
 [![Snapchat Badge](https://img.shields.io/badge/-@CarinaSchoppe-f0ff00?style=flat&labelColor=f0ff00&logo=Snapchat&logoColor=black&)]()
 ![](https://visitor-badge.glitch.me/badge?page_id=pixelsde.pixelsde)
 <br />
