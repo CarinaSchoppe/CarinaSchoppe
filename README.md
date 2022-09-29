@@ -9,12 +9,13 @@
 Hi, I'm [Carina Sophie](https://github.com/PixelsDE/), a passionate self-taught full stack developer and a freelance software engineer from germany. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I´m also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+- 💼 any freelance work? do reach, [email](mailto:carina.schoppe2912@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=carinaschoppe&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carinaschoppe&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
-- 💼 any freelance work? do reach, [email](mailto:carina.schoppe2912@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
