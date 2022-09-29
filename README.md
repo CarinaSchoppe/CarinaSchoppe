@@ -16,10 +16,6 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 [![trophy](https://github-profile-trophy.vercel.app/?username=carinaschoppe&theme=onedark&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carinaschoppe&theme=radical&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carinaschoppe)](https://github.com/anuraghazra/github-readme-stats)
-
-  
-
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
@@ -33,23 +29,17 @@ YAML             18 mins         ▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+ 
 
 if you like what I do, maybe consider buying me a tea 🥺👉👈
 
 <a href="https://paypal.me/CarinaSophieSchoppe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-🚧 **my todolist stats:**
-<!-- TODO-IST:START -->
-🏆  7,982 Karma Points           
-🌸  Completed 2 tasks today           
-✅  Completed 669 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
 📈 my github stats
 
 [![Carina Sophie's github stats](https://github-readme-stats.vercel.app/api?username=carinaschoppe&count_private=true&show_icons=true&theme=radical&show_owner=true)](https://github.com/carinaschoppe)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carinaschoppe)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
