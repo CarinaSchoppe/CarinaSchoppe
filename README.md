@@ -12,7 +12,7 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💼 any freelance work? do reach, [email](mailto:carina.schoppe2912@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=carinaschoppe&theme=onedark&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=carinaschoppe&theme=onedark&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carinaschoppe&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
 
