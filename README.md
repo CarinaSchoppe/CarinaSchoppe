@@ -13,8 +13,8 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💼 any freelance work? do reach, [email](mailto:carina.schoppe2912@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=carinaschoppe&theme=tokyonight&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carinaschoppe&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=carinaschoppe&theme=github_dark&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carinaschoppe&theme=github_dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
@@ -37,9 +37,9 @@ if you like what I do, maybe consider buying me a tea 🥺👉👈
 
 📈 my github stats
 
-[![Carina Sophie's github stats](https://github-readme-stats.vercel.app/api?username=carinaschoppe&count_private=true&show_icons=true&theme=tokyonight&show_owner=true)](https://github.com/carinaschoppe)
+[![Carina Sophie's github stats](https://github-readme-stats.vercel.app/api?username=carinaschoppe&count_private=true&show_icons=true&theme=github_dark&show_owner=true)](https://github.com/carinaschoppe)
 
-[![Carina Sophie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carinaschoppe&&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Carina Sophie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carinaschoppe&&theme=github_dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
