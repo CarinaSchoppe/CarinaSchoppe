@@ -15,6 +15,7 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 [![trophy](https://github-profile-trophy.vercel.app/?username=carinaschoppe&theme=onedark&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carinaschoppe&theme=radical&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carinaschoppe)](https://github.com/anuraghazra/github-readme-stats)
 
   
 
