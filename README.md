@@ -10,7 +10,7 @@ Hi, I'm [Carina Sophie](https://github.com/PixelsDE/), a passionate self-taught 
 
 I´m also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-[![trophy](https://github-profile-trophy.vercel.app/CarinaSchoppe=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/CarinaSchopperyo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
