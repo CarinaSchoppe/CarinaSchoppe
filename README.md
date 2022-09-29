@@ -5,6 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@CarinaSchoppe-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/carinaschoppe)](https://twitter.com/carinaschoppe)
 [![Snapchat Badge](https://img.shields.io/badge/-@CarinaSchoppe-f0ff00?style=flat&labelColor=f0ff00&logo=Snapchat&logoColor=black&)]()
 ![](https://visitor-badge.glitch.me/badge?page_id=pixelsde.pixelsde)
+[![wakatime](https://wakatime.com/badge/user/9676799f-e161-4357-b040-946544ef44a5.svg)](https://wakatime.com/@9676799f-e161-4357-b040-946544ef44a5)
 <br />
 Hi, I'm [Carina Sophie](https://github.com/PixelsDE/), a passionate self-taught full stack developer and a freelance software engineer from germany. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
