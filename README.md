@@ -10,9 +10,8 @@ Hi, I'm [Carina Sophie](https://github.com/PixelsDE/), a passionate self-taught 
 
 I´m also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-[![trophy](https://github-profile-trophy.vercel.app/?CarinaSchoppe=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=carinaschoppe&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carinaschoppe&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
 - 💼 any freelance work? do reach, [email](mailto:carina.schoppe2912@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
@@ -59,7 +58,7 @@ if you like what I do, maybe consider buying me a tea 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CarinaSchoppe&show_icons=true&theme=gotham" alt="CarinaSchoppe" />
+[![Carina Sophie's github stats](https://github-readme-stats.vercel.app/api?username=carinaschoppe&count_private=true&show_icons=true&theme=radical&show_owner=true)](https://github.com/carinaschoppe)
 
 
 
