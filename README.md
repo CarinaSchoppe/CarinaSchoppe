@@ -14,7 +14,7 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💬 ask me about anything, i am happy to help;
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=carinaschoppe&theme=radical&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carinaschoppe&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carinaschoppe&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
@@ -37,7 +37,7 @@ if you like what I do, maybe consider buying me a tea 🥺👉👈
 
 📈 my github stats
 
-[![Carina Sophie's github stats](https://github-readme-stats.vercel.app/api?username=carinaschoppe&count_private=true&show_icons=true&theme=radical&show_owner=true)](https://github.com/carinaschoppe)
+[![Carina Sophie's github stats](https://github-readme-stats.vercel.app/api?username=carinaschoppe&count_private=true&show_icons=true&theme=dark&show_owner=true)](https://github.com/carinaschoppe)
 
 [![Carina Sophie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carinaschoppe&&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
