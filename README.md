@@ -41,11 +41,3 @@ if you like what I do, maybe consider buying me a tea 🥺👉👈
 
 [![Carina Sophie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carinaschoppe&&theme=github_dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
