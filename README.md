@@ -20,12 +20,12 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-SQL              40 mins         █████████████▓░░░░░░░░░░░   54.60 %
-Python           21 mins         ███████░░░░░░░░░░░░░░░░░░   28.56 %
-GitIgnore file   7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 %
-Java             3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
-Properties       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-Groovy           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Java             46 mins         ████████████▓░░░░░░░░░░░░   50.06 %
+SQL              40 mins         ███████████░░░░░░░░░░░░░░   43.44 %
+GitIgnore file   5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+Jupyter          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+CSV              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
