@@ -20,12 +20,12 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-Java             7 hrs 32 mins   ████████████░░░░░░░░░░░░░   47.53 %
-Kotlin           3 hrs 26 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.66 %
-Python           1 hr 56 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
-Jupyter          1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
-XML              43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-Text             27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+Java             7 hrs 26 mins   ███████████▓░░░░░░░░░░░░░   47.16 %
+Kotlin           3 hrs 26 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.83 %
+Python           1 hr 56 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.27 %
+Jupyter          1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
+XML              43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+Text             27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
 ```
 
 <!--END_SECTION:waka-->
