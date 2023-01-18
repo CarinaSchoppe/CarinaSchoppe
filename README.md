@@ -20,12 +20,12 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-Java             10 hrs 12 mins  ██████████████████▓░░░░░░   74.48 %
-Python           1 hr 39 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.06 %
-Kotlin           1 hr 18 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
-Groovy           11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-XML              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-CSV/TSV          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Java             9 hrs 39 mins   ██████████████████▒░░░░░░   73.11 %
+Python           1 hr 39 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
+Kotlin           1 hr 18 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
+Groovy           11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+XML              11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+CSV/TSV          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
 
 <!--END_SECTION:waka-->
