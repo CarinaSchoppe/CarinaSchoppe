@@ -20,12 +20,12 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-Java             6 hrs 19 mins   █████████████████▒░░░░░░░   69.20 %
-C#               2 hrs 8 mins    ██████░░░░░░░░░░░░░░░░░░░   23.40 %
-Kotlin           18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
-XML              15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-GitIgnore file   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-Shell Script     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Java             4 hrs 34 mins   ███████████████▓░░░░░░░░░   62.60 %
+C#               2 hrs 8 mins    ███████▒░░░░░░░░░░░░░░░░░   29.27 %
+Kotlin           18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+XML              14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Shell Script     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
