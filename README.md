@@ -20,8 +20,9 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-Java      12 mins         ███████████████████▓░░░░░   79.06 %
-Jupyter   3 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.94 %
+Java             1 hr 5 mins     ███████████████████████▒░   93.00 %
+Jupyter          3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+GitIgnore file   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 ```
 
 <!--END_SECTION:waka-->
