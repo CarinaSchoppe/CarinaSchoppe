@@ -20,12 +20,12 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-Python           6 hrs 56 mins   █████████████████▒░░░░░░░   69.70 %
-Jupyter          1 hr 30 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.08 %
-CSV/TSV          29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
-Logos            26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-JSON             23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
-Groovy           4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Python       3 hrs 24 mins   █████████████▒░░░░░░░░░░░   53.50 %
+Jupyter      1 hr 12 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.01 %
+Java         44 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 %
+CSV/TSV      25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+JSON         19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+Groovy       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
 ```
 
 <!--END_SECTION:waka-->
