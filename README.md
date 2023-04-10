@@ -20,12 +20,12 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-Python           11 hrs 21 mins  ███████████████████░░░░░░   75.77 %
-C#               1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
-CSV/TSV          58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
-SQL              28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
-XML              25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
-Logos            11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Python           9 hrs 50 mins   ██████████████████▓░░░░░░   74.49 %
+C#               1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
+CSV/TSV          47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+SQL              28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+XML              23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+Logos            9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 ```
 
 <!--END_SECTION:waka-->
