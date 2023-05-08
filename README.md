@@ -20,9 +20,7 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin           28 mins         █████████████████████▒░░░   85.09 %
-GitIgnore file   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
-Markdown         2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
+Kotlin   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
