@@ -1,4 +1,5 @@
 ### Hi I´m Carina Sophie<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/carinaschoppe.png)
 [![Facebook Badge](https://img.shields.io/badge/-CarinaSchoppe-005eff?style=flat&labelColor=005eff&logo=Facebook&logoColor=darkblue&link=https://www.facebook.com/CarinaSophieSchoppe/)](https://www.facebook.com/CarinaSophieSchoppe/)
 [![Gmail Badge](https://img.shields.io/badge/-CarinaSchoppe-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:carina.schoppe2912@gmail.com)](mailto:carina.schoppe2912@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@SchoppeCarina-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/schoppecarina/)](https://instagram.com/schoppecarina)
@@ -14,7 +15,6 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💬 ask me about anything, i am happy to help;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carinaschoppe&layout=compact&theme=github_dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/carinaschoppe.png)
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
