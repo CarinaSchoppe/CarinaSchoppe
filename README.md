@@ -13,7 +13,7 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💼 any freelance work? do reach, [email](mailto:carina.schoppe2912@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/CarinaSchoppe.png)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/carinaschoppe.png)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carinaschoppe&layout=compact&theme=github_dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 📊 **this week i spent my time on:**
