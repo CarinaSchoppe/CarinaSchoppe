@@ -20,11 +20,11 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin           1 hr 36 mins    ███████████████▓░░░░░░░░░   62.07 %
-Java             20 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 %
-Python           10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
-Text             7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-IDEA_MODULE      6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+Kotlin           2 hrs 16 mins   ███████████████▒░░░░░░░░░   61.85 %
+Java             32 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 %
+YAML             10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+Python           10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+Text             7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
 ```
 
 <!--END_SECTION:waka-->
