@@ -20,11 +20,11 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-Java             14 hrs 45 mins  ██████████████████▓░░░░░░   74.16 %
-C#               3 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.57 %
-Kotlin           53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-AUTO_DETECTED    11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-Markdown         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Java             12 hrs 46 mins  █████████████████▓░░░░░░░   71.28 %
+C#               3 hrs 29 mins   █████░░░░░░░░░░░░░░░░░░░░   19.53 %
+Kotlin           53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+AUTO_DETECTED    11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Markdown         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->
