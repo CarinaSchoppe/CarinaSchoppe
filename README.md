@@ -19,7 +19,11 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java       1 hr 38 mins    ████████████████████▒░░░░   81.27 %
+Assembly   8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
+Ezhil      5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+Python     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+XML        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
 ```
 
 <!--END_SECTION:waka-->
