@@ -19,11 +19,11 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-Java             1 hr 20 mins    ████████████░░░░░░░░░░░░░   47.47 %
-Python           52 mins         ███████▓░░░░░░░░░░░░░░░░░   31.13 %
-Markdown         28 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.17 %
-GDScript         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-XML              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+Java             1 hr 20 mins    ████████████▒░░░░░░░░░░░░   49.98 %
+Python           52 mins         ████████▒░░░░░░░░░░░░░░░░   32.78 %
+Markdown         20 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.80 %
+GDScript         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+XML              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
 ```
 
 <!--END_SECTION:waka-->
