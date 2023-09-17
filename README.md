@@ -19,11 +19,11 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-Rust             4 hrs 45 mins   █████████████░░░░░░░░░░░░   52.46 %
-Java             2 hrs 59 mins   ████████▒░░░░░░░░░░░░░░░░   32.93 %
-Python           36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
-TOML             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-GitIgnore file   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Java             5 hrs 10 mins   ███████████▒░░░░░░░░░░░░░   44.98 %
+Rust             4 hrs 45 mins   ██████████▒░░░░░░░░░░░░░░   41.38 %
+Python           36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+GDScript         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+TOML             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 ```
 
 <!--END_SECTION:waka-->
