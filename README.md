@@ -19,11 +19,11 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-Rust             1 hr 17 mins    ██████░░░░░░░░░░░░░░░░░░░   23.76 %
-GDScript3        1 hr 11 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.84 %
-Python           1 hr 7 mins     █████▒░░░░░░░░░░░░░░░░░░░   20.72 %
-Jupyter          1 hr 5 mins     █████░░░░░░░░░░░░░░░░░░░░   20.17 %
-Kotlin           26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+GDScript3        4 hrs 53 mins   █████████▓░░░░░░░░░░░░░░░   38.96 %
+Jupyter          3 hrs           ██████░░░░░░░░░░░░░░░░░░░   23.92 %
+Python           1 hr 38 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
+Rust             1 hr 17 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 %
+CSV              1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 %
 ```
 
 <!--END_SECTION:waka-->
