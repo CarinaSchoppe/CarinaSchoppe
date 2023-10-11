@@ -19,11 +19,11 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-Prolog           4 hrs 37 mins   ███████▒░░░░░░░░░░░░░░░░░   29.50 %
-Jupyter          4 hrs 5 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.10 %
-GDScript3        3 hrs 42 mins   ██████░░░░░░░░░░░░░░░░░░░   23.63 %
-Python           1 hr 53 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
-CSV              59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+Prolog           5 hrs 22 mins   ██████████████▒░░░░░░░░░░   57.80 %
+Jupyter          2 hrs 16 mins   ██████░░░░░░░░░░░░░░░░░░░   24.41 %
+Python           1 hr 22 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 %
+ActionScript 3   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Ezhil            5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->
