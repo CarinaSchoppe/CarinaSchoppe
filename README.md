@@ -19,11 +19,11 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-Prolog           2 hrs 14 mins   ██████████▓░░░░░░░░░░░░░░   42.64 %
-Java             2 hrs 11 mins   ██████████▒░░░░░░░░░░░░░░   41.77 %
-Jupyter          31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
-XML              8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-JSON             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Java             4 hrs 5 mins    ██████████████████▒░░░░░░   73.99 %
+Prolog           59 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.03 %
+XML              12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+Jupyter          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+JSON             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 ```
 
 <!--END_SECTION:waka-->
