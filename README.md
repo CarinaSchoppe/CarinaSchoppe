@@ -19,7 +19,8 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-Python           54 mins         █████████████████████████   99.99 %
+Python           54 mins         ██████████████████████░░░   87.75 %
+Java             7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
