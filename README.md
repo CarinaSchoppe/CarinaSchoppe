@@ -19,8 +19,11 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-Text     25 mins         ████████████████████████▓   98.19 %
-Python   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+Kotlin           31 mins         ████████████░░░░░░░░░░░░░   47.66 %
+Text             25 mins         █████████▓░░░░░░░░░░░░░░░   38.52 %
+textmate         5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
+XML              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+Java             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
