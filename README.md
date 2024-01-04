@@ -19,7 +19,9 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java             33 mins         ██████████████████████▒░░   89.21 %
+GitIgnore file   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
+Kotlin           1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
 ```
 
 <!--END_SECTION:waka-->
