@@ -19,11 +19,11 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-Java             4 hrs 11 mins   ████████████████████████▓   98.20 %
-GitIgnore file   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-Gradle           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Kotlin           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Java             4 hrs 11 mins   ██████████████░░░░░░░░░░░   55.49 %
+Python           3 hrs 6 mins    ██████████▒░░░░░░░░░░░░░░   41.29 %
+Other            9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+GitIgnore file   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Gradle           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
