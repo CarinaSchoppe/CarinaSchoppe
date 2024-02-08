@@ -19,7 +19,11 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-Java   23 mins         █████████████████████████   100.00 %
+Kotlin            1 hr 36 mins    ██████████████████░░░░░░░   71.81 %
+Java              26 mins         █████░░░░░░░░░░░░░░░░░░░░   19.80 %
+XML               4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+Groovy            3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+GitIgnore file    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 ```
 
 <!--END_SECTION:waka-->
