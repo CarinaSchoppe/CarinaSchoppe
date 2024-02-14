@@ -12,6 +12,7 @@ Hi, I'm [Carina Sophie](https://github.com/CarinaSchoppe/), a passionate self-ta
 I´m also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 - 💼 any freelance work? do reach, [email](mailto:carina.schoppe2912@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
+- LinkedIn Profile: https://www.linkedin.com/in/carina-schoppe-509967270/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carinaschoppe&layout=compact&theme=github_dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
