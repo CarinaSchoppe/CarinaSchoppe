@@ -20,11 +20,11 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-Java              10 hrs 5 mins   █████████████████████▓░░░   86.56 %
-XML               37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-Groovy            30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-Text              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-Gradle            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Java              7 hrs 43 mins   █████████████████████▒░░░   85.70 %
+XML               37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+Groovy            30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+Gradle            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
