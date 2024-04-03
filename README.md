@@ -20,11 +20,11 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-C#                     7 hrs 20 mins   █████████████████▒░░░░░░░   69.42 %
-Python                 1 hr 21 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.80 %
-GitIgnore file         40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
-Csproj                 22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
-Text                   22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+C#                     2 hrs 48 mins   ████████████▒░░░░░░░░░░░░   49.41 %
+Python                 1 hr 21 mins    ██████░░░░░░░░░░░░░░░░░░░   23.74 %
+GitIgnore file         32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
+Text                   22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
+XML                    15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
 ```
 
 <!--END_SECTION:waka-->
