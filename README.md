@@ -20,11 +20,11 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-Python                          4 hrs 11 mins   █████████████░░░░░░░░░░░░   51.51 %
-C#                              2 hrs 25 mins   ███████▒░░░░░░░░░░░░░░░░░   29.71 %
-Text                            48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
-JSON                            15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-Gradle                          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+Python                          5 hrs 24 mins   ██████████████░░░░░░░░░░░   56.32 %
+C#                              2 hrs 25 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.26 %
+Text                            1 hr 2 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
+JSON                            15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+Gradle                          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
 ```
 
 <!--END_SECTION:waka-->
