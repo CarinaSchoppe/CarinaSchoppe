@@ -15,9 +15,9 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 - LinkedIn Profile: [click here for LinkedIn](https://www.linkedin.com/in/carina-schoppe-509967270/)
 
 
-[![Top Langs]<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carinaschoppe&show_icons=true&locale=en&layout=compact&theme=transparent" alt="carinaschoppe" /></p>
+[![Top Langs]<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carinaschoppe&show_icons=true&locale=en&layout=compact&theme=transparent" alt="carinaschoppe" /></p>](https://github.com/carinaschoppe)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jan-tennert&show_icons=true&locale=en&theme=transparent" alt="jan-tennert" /></p>
+[![Carina Sophie's github stats]<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carinaschoppe&show_icons=true&locale=en&theme=transparent" alt="carinaschoppe" /></p>](https://github.com/carinaschoppe)
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
@@ -35,8 +35,6 @@ JSON       10 mins         █░░░░░░░░░░░░░░░░�
 
 if you like what I do, maybe consider buying me a tea 🥺👉👈
 
-<a href="https://paypal.me/CarinaSophieSchoppe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-[![Carina Sophie's github stats](https://github-readme-stats.vercel.app/api?username=carinaschoppe&count_private=true&show_icons=true&theme=github_dark&show_owner=true)](https://github.com/carinaschoppe)
+<a href="https://paypal.me/CarinaSophieSchoppe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Tee" width="150" ></a>
 
 [![Carina Sophie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carinaschoppe&&theme=github_dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
