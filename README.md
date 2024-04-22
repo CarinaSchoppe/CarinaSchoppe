@@ -15,8 +15,8 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 - LinkedIn Profile: [click here for LinkedIn](https://www.linkedin.com/in/carina-sophie-schoppe-509967270/)
 
 Top Langs & Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carinaschoppe&show_icons=true&locale=en&layout=compact&theme=transparent" alt="carinaschoppe" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carinaschoppe&show_icons=true&locale=en&theme=transparent" alt="carinaschoppe" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carinaschoppe&show_icons=true&locale=en&layout=compact&theme=dark" alt="carinaschoppe" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carinaschoppe&show_icons=true&locale=en&theme=dark" alt="carinaschoppe" /></p>
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
