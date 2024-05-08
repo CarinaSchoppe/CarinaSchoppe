@@ -22,11 +22,11 @@ Top Langs & Github Stats
 <!--START_SECTION:waka-->
 
 ```txt
-Java             1 hr 43 mins    ████████████████▓░░░░░░░░   66.27 %
-C#               24 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.77 %
-Gradle           13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
-Markdown         9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
-GitIgnore file   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Java             1 hr 43 mins    ███████████████████▓░░░░░   78.68 %
+Gradle           13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
+Markdown         9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
+GitIgnore file   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+textmate         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
