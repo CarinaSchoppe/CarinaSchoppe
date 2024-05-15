@@ -22,11 +22,11 @@ Top Langs & Github Stats
 <!--START_SECTION:waka-->
 
 ```txt
-C#                     36 mins         ████████████████████████▓   98.53 %
-Python                 0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-MsBuild targets file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Text                   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Solution File          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+C#                     36 mins         █████████████████▒░░░░░░░   69.08 %
+Java                   10 mins         █████░░░░░░░░░░░░░░░░░░░░   19.48 %
+Markdown               5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
+Python                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+MsBuild targets file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
