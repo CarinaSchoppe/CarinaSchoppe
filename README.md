@@ -22,8 +22,8 @@ Top Langs & Github Stats
 <!--START_SECTION:waka-->
 
 ```txt
-C#     0 secs          ████████████████████████▒   96.91 %
-JSON   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+C#     0 secs          ████████████████████████▓   98.51 %
+JSON   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
 <!--END_SECTION:waka-->
