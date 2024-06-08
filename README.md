@@ -22,11 +22,11 @@ Top Langs & Github Stats
 <!--START_SECTION:waka-->
 
 ```txt
-Java             2 hrs 8 mins    █████████▓░░░░░░░░░░░░░░░   38.60 %
-Jupyter          1 hr 59 mins    █████████░░░░░░░░░░░░░░░░   35.87 %
-C#               1 hr 10 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.14 %
-GitIgnore file   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-Python           6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+Jupyter          1 hr 59 mins    ██████████▓░░░░░░░░░░░░░░   42.68 %
+C#               1 hr 14 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.57 %
+Java             1 hr 13 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.25 %
+Python           6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+GitIgnore file   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
 ```
 
 <!--END_SECTION:waka-->
