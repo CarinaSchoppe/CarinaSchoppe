@@ -22,7 +22,11 @@ Top Langs & Github Stats
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java              3 hrs 46 mins   █████████████████▒░░░░░░░   69.34 %
+Groovy            37 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
+Gradle            27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
+Kotlin            9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+Properties        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
 ```
 
 <!--END_SECTION:waka-->
