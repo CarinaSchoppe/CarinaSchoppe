@@ -22,7 +22,7 @@ Top Langs & Github Stats
 <!--START_SECTION:waka-->
 
 ```txt
-Jupyter    8 hrs 25 mins   ███████████████████████▒░   92.68 %
+Jupyter    8 hrs 25 mins   ███████████████████████▒░   92.70 %
 Dart       15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
 Markdown   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
 Kotlin     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
