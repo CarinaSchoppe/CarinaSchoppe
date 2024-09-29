@@ -22,7 +22,9 @@ Top Langs & Github Stats
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Dart   13 mins         █████████████████████████   99.87 %
+C#     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
