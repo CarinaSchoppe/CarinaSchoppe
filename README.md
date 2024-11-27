@@ -22,11 +22,9 @@ Top Langs & Github Stats
 <!--START_SECTION:waka-->
 
 ```txt
-Python                 1 hr 52 mins    ████████████████▒░░░░░░░░   65.28 %
-SQL                    34 mins         █████░░░░░░░░░░░░░░░░░░░░   19.79 %
-Sqlite Database File   16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
-Jupyter                5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-Kotlin                 3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+Python   57 mins         ████████████████████████▓   99.14 %
+Text     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
