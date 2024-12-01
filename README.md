@@ -22,11 +22,11 @@ Top Langs & Github Stats
 <!--START_SECTION:waka-->
 
 ```txt
-Python                2 hrs 24 mins   ███████████████████▓░░░░░   78.12 %
-Markdown              20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
-HTTP Request          19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 %
-Text                  0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-Writerside Instance   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Python                5 hrs 56 mins   █████████████████████░░░░   83.35 %
+Markdown              35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
+HTTP Request          30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
+GitIgnore file        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Text                  0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
