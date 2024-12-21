@@ -22,11 +22,11 @@ Top Langs & Github Stats
 <!--START_SECTION:waka-->
 
 ```txt
-Jupyter               9 hrs 4 mins    ██████████████████▓░░░░░░   74.84 %
-Markdown              1 hr 12 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
-Python                56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
-CSV                   21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-GitIgnore file        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Jupyter               6 hrs 5 mins    █████████████████▓░░░░░░░   70.71 %
+Python                53 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
+Markdown              44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
+CSV                   21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+GitIgnore file        11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
 ```
 
 <!--END_SECTION:waka-->
