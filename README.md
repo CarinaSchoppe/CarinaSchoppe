@@ -22,9 +22,7 @@ Top Langs & Github Stats
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown              23 mins         █████████████████████████   99.99 %
-Writerside Instance   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-HTML                  0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
