@@ -22,7 +22,11 @@ Top Langs & Github Stats
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin   0 secs          █████████████████████████   100.00 %
+Jupyter   46 mins         ████████████████████████▓   98.08 %
+Python    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+CSV       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Kotlin    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Text      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
