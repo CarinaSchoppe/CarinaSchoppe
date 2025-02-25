@@ -22,11 +22,11 @@ Top Langs & Github Stats
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown         2 hrs 6 mins    ████████████████████████▓   98.13 %
-Kotlin           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-Python           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-INI              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Markdown         2 hrs 9 mins    ███████████████████░░░░░░   75.75 %
+Kotlin           31 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.36 %
+CSV              8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+Python           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
