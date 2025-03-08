@@ -22,10 +22,7 @@ Top Langs & Github Stats
 <!--START_SECTION:waka-->
 
 ```txt
-Python     13 mins         ██████████████▓░░░░░░░░░░   59.22 %
-Markdown   5 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.85 %
-CSV        3 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.83 %
-Jupyter    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
