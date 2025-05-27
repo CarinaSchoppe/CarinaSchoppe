@@ -22,11 +22,7 @@ Top Langs & Github Stats
 <!--START_SECTION:waka-->
 
 ```txt
-XML         4 mins          ███████████████████████▓░   94.68 %
-C#          0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-Config      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-SourceMap   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Text        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
