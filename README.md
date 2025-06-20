@@ -22,8 +22,8 @@ Top Langs & Github Stats
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin     0 secs          ████████████████████████░   96.62 %
-Markdown   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+Kotlin     0 secs          ███████████████████████▒░   93.70 %
+Markdown   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
 ```
 
 <!--END_SECTION:waka-->
