@@ -22,7 +22,8 @@ Top Langs & Github Stats
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python           2 hrs 6 mins    ████████████████████████▓   98.34 %
+GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 ```
 
 <!--END_SECTION:waka-->
