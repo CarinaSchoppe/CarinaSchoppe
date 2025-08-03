@@ -25,7 +25,7 @@ Top Langs & Github Stats
 Kotlin            2 hrs 38 mins   ████████████████████████▒   97.43 %
 Java              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 Text              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-GitIgnore file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+GitIgnore file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
