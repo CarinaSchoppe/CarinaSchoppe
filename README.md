@@ -22,11 +22,11 @@ Top Langs & Github Stats
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin           14 mins         ███████████████████████▓░   95.04 %
-GitIgnore file   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
-YAML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Kotlin            1 hr 44 mins    ██████████████████████▓░░   90.44 %
+Markdown          9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
+Java Properties   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Text              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
