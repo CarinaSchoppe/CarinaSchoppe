@@ -17,23 +17,8 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 Top Langs & Github Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carinaschoppe&show_icons=true&locale=en&layout=compact&theme=dark" alt="carinaschoppe" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carinaschoppe&show_icons=true&locale=en&theme=dark" alt="carinaschoppe" /></p>
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```txt
-Kotlin            2 hrs 47 mins   █████████████████████▒░░░   85.24 %
-Markdown          26 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.74 %
-Java Properties   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Text              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-```
-
-<!--END_SECTION:waka-->
  
 
 if you like what I do, maybe consider buying me a tea 🥺👉👈
 
 <a href="https://paypal.me/CarinaSophieSchoppe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Tee" width="150" ></a>
-
-[![Carina Sophie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carinaschoppe&&theme=github_dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
