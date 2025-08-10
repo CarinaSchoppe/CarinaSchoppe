@@ -13,13 +13,15 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💼 any freelance work? do reach, [email](mailto:carina.schoppe2912@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 - LinkedIn Profile: [click here for LinkedIn](https://www.linkedin.com/in/carina-sophie-schoppe-509967270/)
+  
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/carinaschoppe.png)
 
 Top Langs & Github Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carinaschoppe&show_icons=true&locale=en&theme=dark" alt="carinaschoppe" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carinaschoppe&show_icons=true&locale=en&layout=compact&theme=dark" alt="carinaschoppe" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carinaschoppe&show_icons=true&locale=en&theme=dark" alt="carinaschoppe" /></p>
  
 
 If you like what I do, maybe consider buying me a tea 🥺👉👈
+
 <a href="https://paypal.me/CarinaSophieSchoppe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Tee" width="150" ></a>
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/carinaschoppe.png)
