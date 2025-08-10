@@ -20,6 +20,6 @@ Top Langs & Github Stats
  
 
 If you like what I do, maybe consider buying me a tea 🥺👉👈
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/carinaschoppe.png)
 <a href="https://paypal.me/CarinaSophieSchoppe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Tee" width="150" ></a>
 
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/carinaschoppe.png)
