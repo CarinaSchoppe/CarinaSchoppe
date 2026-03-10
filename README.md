@@ -1,27 +1,106 @@
-### Hi I´m Carina Sophie<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">Hi, I'm Carina Sophie 👋</h1>
+<h3 align="center">Business Informatics Graduate • Software Engineer • Digital Education Specialist • AI & IT Enthusiast</h3>
 
-[![Facebook Badge](https://img.shields.io/badge/-CarinaSchoppe-005eff?style=flat&labelColor=005eff&logo=Facebook&logoColor=darkblue&link=https://www.facebook.com/CarinaSophieSchoppe/)](https://www.facebook.com/CarinaSophieSchoppe/)
-[![Gmail Badge](https://img.shields.io/badge/-CarinaSchoppe-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:carina.schoppe2912@gmail.com)](mailto:carina.schoppe2912@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@SchoppeCarina-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/schoppecarina/)](https://instagram.com/schoppecarina)
-[![Twitter Badge](https://img.shields.io/badge/-@CarinaSchoppe-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/schoppecarina)](https://twitter.com/schoppecarina)
-![](https://visitor-badge.glitch.me/badge?page_id=CarinaSchoppe.CarinaSchoppe)
-[![wakatime](https://wakatime.com/badge/user/9676799f-e161-4357-b040-946544ef44a5.svg)](https://wakatime.com/@9676799f-e161-4357-b040-946544ef44a5)
-<br />
-Hi, I'm [Carina Sophie](https://github.com/CarinaSchoppe/), a passionate self-taught full stack developer and a freelance software engineer from germany. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+<p align="center">
+  <a href="https://www.linkedin.com/in/carina-sophie-schoppe-509967270/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:carina.schoppe2912@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/schoppecarina">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/carinaschoppe">
+    <img src="https://img.shields.io/badge/Twitter-Profile-1D9BF0?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
 
-I´m also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-- 💼 any freelance work? do reach, [email](mailto:carina.schoppe2912@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
-- LinkedIn Profile: [click here for LinkedIn](https://www.linkedin.com/in/carina-sophie-schoppe-509967270/)
-  
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/carinaschoppe.png)
+---
 
-Top Langs & Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carinaschoppe&show_icons=true&locale=en&layout=compact&theme=dark" alt="carinaschoppe" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carinaschoppe&show_icons=true&locale=en&theme=dark" alt="carinaschoppe" /></p>
- 
+## About Me
 
-If you like what I do, maybe consider buying me a tea 🥺👉👈
+I’m Carina Sophie, a software engineer and digital education specialist with a background in **Business Informatics, IT, and applied technology-driven learning**.
 
-<a href="https://paypal.me/CarinaSophieSchoppe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Tee" width="150" ></a>
+My work sits at the intersection of:
 
+- **Software development**
+- **Digital education & instructional design**
+- **AI, automation, and emerging technologies**
+- **Business, IT, and process-oriented problem solving**
+
+I enjoy building solutions that are not only technically strong, but also **practical, understandable, and genuinely useful**.
+
+---
+
+## What I Focus On
+
+- Designing and developing modern software solutions
+- Building structured learning experiences in IT and business
+- Working with Python, SQL, backend systems, and automation
+- Exploring AI-supported workflows, digital transformation, and scalable educational concepts
+- Translating complex technical topics into clear, high-value learning and business outcomes
+
+---
+
+## Tech & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cs,js,ts,dart,flutter,html,css,react,nodejs,mysql,postgres,git,github,azure,aws,vscode,idea" />
+</p>
+
+**Core areas:**  
+`Python` `SQL` `Java` `C#` `Flutter` `Web Development` `Databases` `APIs` `Cloud` `Automation` `AI/ML` `Instructional Design`
+
+---
+
+## Current Interests
+
+- AI in education and business
+- Software architecture and full-stack systems
+- Digital learning environments
+- Cybersecurity and applied IT skills
+- Data-driven decision support
+- Practical, business-relevant software engineering
+
+---
+
+## Certifications & Community
+
+<p>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/carinaschoppe.png" alt="TryHackMe Badge" />
+</p>
+
+I’m passionate about continuous learning, hands-on experimentation, and sharing knowledge through teaching, mentoring, and building.
+
+Open source, technical education, and practical innovation are topics I care deeply about.
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=carinaschoppe&show_icons=true&theme=tokyonight&hide_border=true" alt="Carina Sophie GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carinaschoppe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## Let’s Connect
+
+I’m always interested in connecting around:
+
+- software engineering
+- AI and digital education
+- technical collaboration
+- innovative learning formats
+- practical IT and business solutions
+
+📩 **Email:** [carina.schoppe2912@gmail.com](mailto:carina.schoppe2912@gmail.com)  
+💼 **LinkedIn:** [Carina Sophie Schoppe](https://www.linkedin.com/in/carina-sophie-schoppe-509967270/)
+
+---
+
+<p align="center">
+  <i>Building useful technology, enabling learning, and turning ideas into structured solutions.</i>
+</p>
