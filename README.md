@@ -96,7 +96,7 @@ I’m always interested in connecting around:
 - innovative learning formats
 - practical IT and business solutions
 
-📩 **Email:** [carina.schoppe2912@gmail.com](mailto:carina.schoppe2912@gmail.com)  
+📩 **Email:** [info@carinaschoppe.com](mailto:info@carinaschoppe.com)  
 💼 **LinkedIn:** [Carina Sophie Schoppe](https://www.linkedin.com/in/carina-sophie-schoppe-509967270/)
 
 ---
