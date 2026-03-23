@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Carina Sophie 👋</h1>
+<h1 align="center">Hi, I'm Carina Sophie Schoppe👋</h1>
 <h3 align="center">Business Computer Science and M.B.A. IT Management / AI • SE • Digital Education Specialist • AI & IT Enthusiast</h3>
 
 <p align="center">
