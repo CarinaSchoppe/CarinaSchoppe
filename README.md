@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Carina Sophie Schoppe👋</h1>
-<h3 align="center">Business Computer Science and M.B.A. • SE • Digital Education Specialist • AI & IT Enthusiast</h3>
+<h3 align="center">Business Computer Science & M.B.A. • SE • Digital Education Specialist • AI & IT Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/carina-sophie-schoppe-509967270/">
