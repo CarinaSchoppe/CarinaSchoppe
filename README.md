@@ -97,7 +97,7 @@ I’m always interested in connecting around:
 - practical IT and business solutions
 
 📩 **Email:** [info@carinaschoppe.com](mailto:info@carinaschoppe.com)  
-💼 **LinkedIn:** [Carina Sophie Schoppe](https://www.linkedin.com/in/carina-sophie-schoppe-509967270/)
+💼 **LinkedIn:** [Carina Sophie Schoppe](https://www.linkedin.com/in/carinaschoppe/)
 
 ---
 
