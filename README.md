@@ -6,7 +6,7 @@
 # Carina Sophie Schoppe
 
 <p>
-  <img src="./assets/carina-portrait.webp" alt="Portrait of Carina Sophie Schoppe" width="104" align="right">
+  <img src="./assets/carina-portrait-vertical.webp" alt="Portrait of Carina Sophie Schoppe" width="104" align="right">
   <strong>Software engineer · IT lecturer · Founder of Luminovia</strong><br>
   Brisbane, Australia · English and German
 </p>
