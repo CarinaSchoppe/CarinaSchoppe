@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Luminovia mark">
+  <rect width="128" height="128" rx="28" fill="#ffffff"/>
+  <path d="M64 18 92 66H36L64 18Z" fill="#0b63f6"/>
+  <path d="M64 18v48H36L64 18Z" fill="#06122d"/>
+  <path d="M64 18 92 66H64V18Z" fill="#58b6ff"/>
+  <path d="M22 76c16 0 29 4 42 16 13-12 26-16 42-16v15c-15 0-27 5-42 19-15-14-27-19-42-19V76Z" fill="#06122d"/>
+  <path d="M26 66c14 2 25 8 38 20 13-12 24-18 38-20v10c-14 2-25 8-38 20-13-12-24-18-38-20V66Z" fill="#0b63f6"/>
+  <path d="M49 74c8-10 15-15 25-20" fill="none" stroke="#06122d" stroke-width="6" stroke-linecap="round"/>
+  <path d="M66 78c7-10 14-16 25-21" fill="none" stroke="#0b63f6" stroke-width="5" stroke-linecap="round"/>
+  <path d="M70 50c18-4 31-8 43-13" fill="none" stroke="#eaa514" stroke-width="5" stroke-linecap="round"/>
+</svg>

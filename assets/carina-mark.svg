@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Carina Sophie Schoppe favicon">
+  <title>Carina Sophie Schoppe</title>
+  <defs>
+    <linearGradient id="bg" x1="30" y1="20" x2="226" y2="236" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1D4ED8"/>
+      <stop offset="0.46" stop-color="#09162F"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="64" y1="58" x2="202" y2="198" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7DD3FC"/>
+      <stop offset="0.52" stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#F5C04E"/>
+    </linearGradient>
+  </defs>
+  <rect x="16" y="16" width="224" height="224" rx="54" fill="url(#bg)"/>
+  <rect x="23" y="23" width="210" height="210" rx="48" fill="none" stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="2"/>
+  <path d="M63 151c9 22 31 38 58 38 22 0 40-8 53-21" fill="none" stroke="url(#accent)" stroke-width="13" stroke-linecap="round"/>
+  <path d="M188 84c-12-13-30-21-51-21-37 0-67 27-67 65s30 65 67 65c19 0 36-7 48-18" fill="none" stroke="#F8FAFC" stroke-width="13" stroke-linecap="round"/>
+  <path d="M96 144c8 11 22 18 39 18 20 0 33-9 33-23 0-16-16-21-37-27-21-6-43-14-43-39 0-23 20-39 49-39 19 0 35 6 48 18" fill="none" stroke="url(#accent)" stroke-width="12" stroke-linecap="round"/>
+</svg>

@@ -1,43 +1,42 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg">
-  <img src="./assets/profile-light.svg" alt="" width="960">
-</picture>
-
 # Carina Sophie Schoppe
 
-**Software engineer · IT lecturer · Founder of Luminovia Training & Consulting**
+<p>
+  <img src="./assets/carina-portrait.webp" alt="Portrait of Carina Sophie Schoppe" width="124" align="right">
+  <strong>Software engineer · IT lecturer · Founder of Luminovia</strong><br>
+  Brisbane, Australia · English and German
+</p>
 
-Brisbane, Australia · Working in English and German
+I build Python tools for research and automation, contribute to Linux audio software, and design hands-on IT training for adult learners.
 
-I develop open-source tools and design technical training for adult learners. My research focuses on how people and organisations use generative AI at work.
+<a href="https://carinaschoppe.com/"><img src="./assets/carina-mark.svg" alt="" width="18"> Personal portfolio</a> · [Software projects](https://carinaschoppe.com/software) · [Luminovia](https://luminovia.org/) · [LinkedIn](https://www.linkedin.com/in/carinaschoppe/) · [ORCID](https://orcid.org/0009-0006-3211-5242)
 
-[Personal portfolio](https://carinaschoppe.com/) · [Luminovia](https://luminovia.org/) · [LinkedIn](https://www.linkedin.com/in/carinaschoppe/) · [ORCID](https://orcid.org/0009-0006-3211-5242)
+## Selected projects
 
-## Selected work
+### PRISMA Literature Review Pipeline
 
-### OpenXLR · Linux audio
+A Python workbench for systematic literature reviews. Its desktop and command-line interfaces share a workflow for academic search, deduplication, citation expansion and AI-assisted screening. It records screening decisions and exports PRISMA-style reports. [Explore PRISMA](https://github.com/CarinaSchoppe/PRISMA-Literature-Review-Pipeline-Automation-Tool)
 
-I contribute to OpenXLR’s PipeWire mixer and desktop app. I added recovery for frozen USB microphone capture, made mixer layouts adapt to wide windows, and sped up local builds. [Capture recovery](https://github.com/emaspa/openxlr/pull/733) · [Mixer layout](https://github.com/emaspa/openxlr/pull/731) · [Build performance](https://github.com/emaspa/openxlr/pull/745)
+### Automatic Mail Sender System
 
-### ONLYOFFICE · Presentation tools
+A Python tool for preparing and sending templated outreach emails over SMTPS. Separate templates and attachments support different workflows, while dry runs, recipient deduplication and sent logs help manage each batch. [Explore Mail Sender](https://github.com/CarinaSchoppe/Automatic-Mail-Sender-System)
 
-My Presenter View proposal adds adjustable speaker-note text and fading laser pointer trails that stay in sync between the presenter and slideshow windows. [Presenter View pull request](https://github.com/ONLYOFFICE/sdkjs/pull/4908)
+### OpenXLR
 
-### PRISMA · Research tooling
+I contribute to OpenXLR’s Linux audio mixer. My changes cover recovery from frozen USB microphone capture, mixer layouts that adapt to wide windows, and faster local builds. [Capture recovery](https://github.com/emaspa/openxlr/pull/733) · [Mixer layout](https://github.com/emaspa/openxlr/pull/731) · [Build performance](https://github.com/emaspa/openxlr/pull/745)
 
-I built a Python workbench with desktop and command-line workflows for finding, deduplicating and screening papers. It records screening decisions and exports data for reproducible literature reviews. [Project repository](https://github.com/CarinaSchoppe/PRISMA-Literature-Review-Pipeline-Automation-Tool)
+## Luminovia Training & Consulting
 
-## Teaching and consulting
+<img src="./assets/luminovia-mark.svg" alt="Luminovia logo" width="72" align="right">
 
-Through Luminovia, I work with organisations and education providers on IT training, curriculum design and applied AI. I design labs and assessments for Linux, networking, cybersecurity, Python and SQL, and help teams evaluate AI use cases for their workflows. [Training programmes](https://luminovia.org/training) · [Consulting](https://luminovia.org/consulting)
+I founded Luminovia to deliver technical training and consulting for organisations and education providers. I teach in English and German, design curricula and hands-on labs, and help teams evaluate AI use cases. Training covers areas such as Linux, networking, cybersecurity, Python and SQL. [Training programmes](https://luminovia.org/training) · [Consulting](https://luminovia.org/consulting)
 
 ## Research and qualifications
 
-I study human–AI interaction and how organisations govern generative AI. At the University of Queensland, I worked on agentic AI as a senior research assistant. [Writing and research](https://carinaschoppe.com/blog)
+My research focuses on human–AI interaction at work and the governance of generative AI. I also worked on agentic AI as a senior research assistant at the University of Queensland. [Writing and research](https://carinaschoppe.com/blog)
 
-I hold a B.Sc. and an M.Sc. in Business Computer Science, an MBA and the Australian TAE40122 Certificate IV in Training and Assessment. [Qualifications](https://carinaschoppe.com/credentials)
+**Qualifications.** B.Sc. and M.Sc. in Business Computer Science, MBA, and the Australian TAE40122 Certificate IV in Training and Assessment. [Credentials](https://carinaschoppe.com/credentials)
 
-## Get in touch
+## Contact
 
-- **Open-source collaboration, research or guest lectures.** [Personal contact](https://carinaschoppe.com/contact) · [Email](mailto:info@carinaschoppe.com)
-- **Training for a team, curriculum design or consulting.** [Contact Luminovia](https://luminovia.org/contact)
+- **Software collaboration, research or guest lectures.** [Personal contact](https://carinaschoppe.com/contact) · [Email](mailto:info@carinaschoppe.com)
+- **Team training, curriculum design or consulting.** [Contact Luminovia](https://luminovia.org/contact)
