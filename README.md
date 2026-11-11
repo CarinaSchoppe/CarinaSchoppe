@@ -1,16 +1,18 @@
-<img src="./assets/profile-banner.png" alt="Carina Schoppe — Educator, Developer and AI Researcher. IT, AI &amp; Business — explained and applied. carinaschoppe.com | Luminovia.org" width="960">
+<a href="https://carinaschoppe.com/"><img src="./assets/profile-banner.png" alt="Carina Schoppe — Educator, Consultant and AI Researcher. IT, AI &amp; Business — explained and applied." width="100%"></a>
 
 <a href="https://carinaschoppe.com/"><img src="./assets/carina-logo.png" alt="Carina Schoppe — CS knowledge orbit logo" width="96" align="right"></a>
 
 # Carina Sophie Schoppe
 
-I develop open-source software and design technical training for adult learners. I work with organisations and education providers in English and German.
+**Educator · Consultant · Manager · AI Researcher**
 
-**[Discuss training or consulting](https://luminovia.org/contact)** · <a href="https://carinaschoppe.com/"><img src="./assets/carina-logo.png" alt="" width="24"> Personal portfolio</a> · [LinkedIn](https://www.linkedin.com/in/carinaschoppe/)
+I help people and organisations understand technology, apply AI and turn business goals into practical outcomes. Based in Brisbane, Australia, I work across education, consulting, project management and AI research, supporting businesses and education providers in English and German.
+
+**[Discuss training or consulting](https://luminovia.org/contact)** · [Personal portfolio](https://carinaschoppe.com/) · [LinkedIn](https://www.linkedin.com/in/carinaschoppe/)
 
 ## Work with Luminovia
 
-<a href="https://github.com/Luminovia-Training-Consulting"><img src="./assets/luminovia-logo.png" alt="Luminovia — an open book and a path towards new light" width="96" align="right"></a>
+<a href="https://github.com/Luminovia-Training-Consulting"><img src="./assets/luminovia-banner.png" alt="Luminovia Training &amp; Consulting — IT, AI and Business. Understand technology. Put it to work." width="100%"></a>
 
 I founded **[Luminovia Training & Consulting](https://luminovia.org/)** to help people understand technology and put it to work. We support businesses, education providers and universities through training, learning design and consulting in English and German.
 
@@ -42,4 +44,4 @@ My research focuses on human–AI interaction at work and the governance of gene
 
 **Qualifications.** B.Sc. and M.Sc. in Business Computer Science, MBA, and the Australian TAE40122 Certificate IV in Training and Assessment. [Credentials](https://carinaschoppe.com/credentials)
 
-For software collaboration, research or guest lectures, reach me through my portfolio. [Personal contact](https://carinaschoppe.com/contact) · [Email](mailto:info@carinaschoppe.com)
+For consulting, project management, research, guest lectures or software collaboration, reach me through my portfolio. [Personal contact](https://carinaschoppe.com/contact) · [Email](mailto:info@carinaschoppe.com)
