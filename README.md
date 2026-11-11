@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio-hero-dark.svg">
-  <img src="./assets/portfolio-hero-light.svg" alt="Carina Sophie Schoppe. Software engineering and technical education. Founder of Luminovia Training &amp; Consulting in Brisbane." width="960">
-</picture>
+<img src="./assets/profile-banner.png" alt="Carina Schoppe — Educator, Developer and AI Researcher. IT, AI &amp; Business — explained and applied. carinaschoppe.com | Luminovia.org" width="960">
 
 # Carina Sophie Schoppe
 
