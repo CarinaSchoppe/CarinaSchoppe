@@ -10,11 +10,15 @@ I develop open-source software and design technical training for adult learners.
 
 ## Work with Luminovia
 
-<img src="./assets/luminovia-mark.svg" alt="Luminovia logo" width="72" align="right">
+<a href="https://github.com/Luminovia-Training-Consulting"><img src="./assets/luminovia-logo.png" alt="Luminovia — an open book and a path towards new light" width="96" align="right"></a>
 
-- **Technical training.** Live courses and workshops with hands-on exercises in applied AI, Python, SQL, Linux, networking and cybersecurity. [Training programmes](https://luminovia.org/training)
+I founded **[Luminovia Training & Consulting](https://luminovia.org/)** to help people understand technology and put it to work. We support businesses, education providers and universities through training, learning design and consulting in English and German.
+
+- **Technical and business training.** Live courses and workshops with practical exercises in AI, Python, SQL, networking, cybersecurity and business IT. [Training programmes](https://luminovia.org/training)
 - **Learning design.** Curricula, labs and assessments for workplace training and adult education. [Programme formats](https://luminovia.org/offers)
-- **AI and IT consulting.** Assess use cases, map workflow risks and plan how to introduce AI or automation into everyday work. [Consulting services](https://luminovia.org/consulting)
+- **AI and IT consulting.** Assess use cases, review workflows and plan how to introduce AI or automation into everyday work. [Consulting services](https://luminovia.org/consulting)
+
+**[Luminovia on GitHub](https://github.com/Luminovia-Training-Consulting)** · [Public teaching resources](https://github.com/Luminovia-Training-Consulting/CBW-Zusatzunterricht) · [Discuss a project](https://luminovia.org/contact)
 
 ## Selected software
 

@@ -1,11 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Luminovia mark">
-  <rect width="128" height="128" rx="28" fill="#ffffff"/>
-  <path d="M64 18 92 66H36L64 18Z" fill="#0b63f6"/>
-  <path d="M64 18v48H36L64 18Z" fill="#06122d"/>
-  <path d="M64 18 92 66H64V18Z" fill="#58b6ff"/>
-  <path d="M22 76c16 0 29 4 42 16 13-12 26-16 42-16v15c-15 0-27 5-42 19-15-14-27-19-42-19V76Z" fill="#06122d"/>
-  <path d="M26 66c14 2 25 8 38 20 13-12 24-18 38-20v10c-14 2-25 8-38 20-13-12-24-18-38-20V66Z" fill="#0b63f6"/>
-  <path d="M49 74c8-10 15-15 25-20" fill="none" stroke="#06122d" stroke-width="6" stroke-linecap="round"/>
-  <path d="M66 78c7-10 14-16 25-21" fill="none" stroke="#0b63f6" stroke-width="5" stroke-linecap="round"/>
-  <path d="M70 50c18-4 31-8 43-13" fill="none" stroke="#eaa514" stroke-width="5" stroke-linecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 640 640" fill="none" role="img" aria-labelledby="logo-title logo-description">
+  <title id="logo-title">Luminovia</title>
+  <desc id="logo-description">An open book reveals a winding path towards a golden star, surrounded by a circle in coral, yellow, mint, periwinkle and cobalt. Knowledge opens a path towards new light.</desc>
+  <g id="colour-circle" stroke-width="25" stroke-linecap="round">
+    <path id="coral" d="M74.037 324.293 A246 246 0 0 1 197 106.957" stroke="#FF8E83"/>
+    <path id="gold" d="M223.880 93.557 A246 246 0 0 1 416.120 93.557" stroke="#FFC62C"/>
+    <path id="mint" d="M443 106.957 A246 246 0 0 1 565.963 324.293" stroke="#76D5C0"/>
+    <path id="periwinkle" d="M563.606 354.237 A246 246 0 0 1 335.018 565.541" stroke="#AC9DF8"/>
+    <path id="cobalt" d="M304.982 565.541 A246 246 0 0 1 76.394 354.237" stroke="#214BB4"/>
+  </g>
+  <path id="guiding-star" fill="#FFC62C" d="M328 116 C337 147 354 165 388 177 C354 188 337 208 328 240 C318 208 301 188 268 177 C301 165 318 147 328 116Z"/>
+  <g id="knowledge-book">
+    <path id="book-cover" fill="#071E54" d="M151 277 C142 277 136 284 136 294 V442 C136 453 144 459 155 457 C211 444 260 458 306 491 C314 499 326 499 334 491 C380 458 429 444 485 457 C496 459 504 453 504 442 V294 C504 284 498 277 489 277 C481 277 474 284 474 294 V424 C419 416 366 434 320 469 C274 434 221 416 166 424 V294 C166 284 159 277 151 277Z"/>
+    <path id="left-page" fill="#214BB4" d="M183 231 C222 222 274 241 318 259 C345 271 339 282 316 293 C285 308 254 320 254 343 C254 364 284 377 285 396 C285 414 276 426 278 433 C251 414 222 408 184 411 L173 245 C170 232 176 232 183 231Z"/>
+    <path id="right-page" fill="#AC9DF8" d="M338 254 C376 235 421 224 457 229 C472 230 472 235 469 246 L457 411 C414 405 371 417 336 437 C353 414 362 398 359 380 C356 363 325 348 313 336 C298 319 325 305 338 294 C355 278 350 265 338 254Z"/>
+  </g>
 </svg>
