@@ -1,10 +1,12 @@
 <img src="./assets/profile-banner.png" alt="Carina Schoppe — Educator, Developer and AI Researcher. IT, AI &amp; Business — explained and applied. carinaschoppe.com | Luminovia.org" width="960">
 
+<a href="https://carinaschoppe.com/"><img src="./assets/carina-logo.png" alt="Carina Schoppe — CS knowledge orbit logo" width="96" align="right"></a>
+
 # Carina Sophie Schoppe
 
 I develop open-source software and design technical training for adult learners. I work with organisations and education providers in English and German.
 
-**[Discuss training or consulting](https://luminovia.org/contact)** · <a href="https://carinaschoppe.com/"><img src="./assets/carina-mark.svg" alt="" width="18"> Personal portfolio</a> · [LinkedIn](https://www.linkedin.com/in/carinaschoppe/)
+**[Discuss training or consulting](https://luminovia.org/contact)** · <a href="https://carinaschoppe.com/"><img src="./assets/carina-logo.png" alt="" width="24"> Personal portfolio</a> · [LinkedIn](https://www.linkedin.com/in/carinaschoppe/)
 
 ## Work with Luminovia
 
