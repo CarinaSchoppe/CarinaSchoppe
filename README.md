@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://carinaschoppe.com/"><img src="./assets/carina-profile-banner.png" alt="Carina Schoppe — Educator, Consultant and AI Researcher. IT, AI &amp; Business — explained and applied." width="680"></a>
+  <a href="https://carinaschoppe.com/"><img src="./assets/carina-profile-banner.png" alt="Carina Schoppe — Educator, Consultant and AI Researcher. IT, AI &amp; Business — explained and applied." width="100%"></a>
 </p>
 
 <a href="https://carinaschoppe.com/"><img src="./assets/carina-cs-logo.png" alt="Carina Schoppe — CS knowledge orbit logo" width="96" align="right"></a>
